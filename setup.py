@@ -7,6 +7,7 @@ setup(
         'mamona':[
             "templates/mamona/*.html",
             "templates/mamona/*/*.html",
+            "templates/mamona/*/*/*.html",
             "locale/*/LC_MESSAGES/*",
             ]
         },
